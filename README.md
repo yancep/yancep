@@ -19,7 +19,4 @@
 ---
 
 ## 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yancep&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yancep&layout=compact)  
-![Profile Views](https://komarev.com/ghpvc/?username=yancep&color=blue)
