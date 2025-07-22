@@ -19,4 +19,10 @@
 ---
 
 ## 📈 Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yancep&layout=compact)  
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=yancep&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yancep"
+  width="600"
+  height="300"
+/>
+</a>
